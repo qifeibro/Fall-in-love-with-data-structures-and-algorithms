@@ -3,7 +3,7 @@ package com.mj;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Times {
+public class TimeTool {
 	private static final SimpleDateFormat fmt = new SimpleDateFormat("HH:mm:ss.SSS");
 	
 	public interface Task {
